@@ -1,4 +1,4 @@
 README.md export-ignore
-build.sh export-ignore
+plugins/sketchfab/build.sh export-ignore
 .gitattributes export-ignore
 .gitignore export-ignore
